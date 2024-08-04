@@ -34,7 +34,7 @@ This Weather Prediction Application fetches weather data for a specified locatio
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/weather-prediction-app.git
+   git clone https://github.com/shaswat-agarwal/weather-prediction-app.git
    cd weather-prediction-app
    ```
 2. Create and activate a virtual environment:
